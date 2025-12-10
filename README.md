@@ -19,7 +19,6 @@ The dataset contains three sheets:
 - Returns  
 - People  
 
-For this project, the **Orders** sheet is used.
 
 ---
 
